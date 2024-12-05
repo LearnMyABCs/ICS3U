@@ -13,7 +13,7 @@ public class ExampleFour {
     //double average = (mark1 + mark2 + (double)mark3) / numMarks;  
     //double average = (double)(mark1 + mark2 + mark3) / numMarks; 
     
-    double average = (double)(mark1 + mark2 + mark3) / numMarks;    //uselss explicit cast 
+    double average = (double)(mark1 + mark2 + mark3) / numMarks;    //useless explicit cast 
     
     average = (mark1 + mark2 + mark3)/ numMarks; //same as above but this is implicit  
 

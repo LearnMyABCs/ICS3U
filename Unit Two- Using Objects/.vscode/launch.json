@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ExampleOne",
+            "request": "launch",
+            "mainClass": "day1.ExampleOne",
+            "projectName": "Unit Two- Using Objects_dbbf7e2"
+        },
+        {
+            "type": "java",
+            "name": "Driver",
+            "request": "launch",
+            "mainClass": "day2.Driver",
+            "projectName": "Unit Two- Using Objects_dbbf7e2"
+        },
+        {
+            "type": "java",
+            "name": "Driver(1)",
+            "request": "launch",
+            "mainClass": "day3.Driver",
+            "projectName": "Unit Two- Using Objects_dbbf7e2"
+        },
+        {
+            "type": "java",
+            "name": "MathExamples",
+            "request": "launch",
+            "mainClass": "day4.MathExamples",
+            "projectName": "Unit Two- Using Objects_dbbf7e2"
+        },
+        {
+            "type": "java",
+            "name": "WrapperExample",
+            "request": "launch",
+            "mainClass": "day4.WrapperExample",
+            "projectName": "Unit Two- Using Objects_dbbf7e2"
+        },
+        {
+            "type": "java",
+            "name": "driver",
+            "request": "launch",
+            "mainClass": "day4.driver",
+            "projectName": "Unit Two- Using Objects_dbbf7e2"
+        },
+        {
+            "type": "java",
+            "name": "RandomExamples",
+            "request": "launch",
+            "mainClass": "day5.RandomExamples",
+            "projectName": "Unit Two- Using Objects_dbbf7e2"
+        },
+        {
+            "type": "java",
+            "name": "StringExamples",
+            "request": "launch",
+            "mainClass": "day5.StringExamples",
+            "projectName": "Unit Two- Using Objects_dbbf7e2"
+        },
+        {
+            "type": "java",
+            "name": "ObjectsQuiz",
+            "request": "launch",
+            "mainClass": "day6.ObjectsQuiz",
+            "projectName": "Unit Two- Using Objects_dbbf7e2"
+        },
+        {
+            "type": "java",
+            "name": "StringExamples(1)",
+            "request": "launch",
+            "mainClass": "day6.StringExamples",
+            "projectName": "Unit Two- Using Objects_dbbf7e2"
+        },
+        {
+            "type": "java",
+            "name": "Review",
+            "request": "launch",
+            "mainClass": "day7.Review",
+            "projectName": "Unit Two- Using Objects_dbbf7e2"
+        }
+    ]
+}

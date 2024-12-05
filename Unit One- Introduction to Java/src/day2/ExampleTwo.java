@@ -11,7 +11,7 @@ public class ExampleTwo {
         
         int p = y % 2;      //remainder (modulus)
 
-        int p = y / 2;      //division 
+        p = y / 2;      //division 
 
         double  mult = a * b;       //double * double = double
         x = x - 1;                  //subtracts 1 from x and siggns it back to x 
