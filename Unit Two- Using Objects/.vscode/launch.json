@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestQuestionTwoB",
+            "request": "launch",
+            "mainClass": "day8.TestQuestionTwoB",
+            "projectName": "Unit Two- Using Objects_dbbf7e2"
+        },
+        {
+            "type": "java",
+            "name": "Ap",
+            "request": "launch",
+            "mainClass": "day7.Ap",
+            "projectName": "Unit Two- Using Objects_dbbf7e2"
+        },
+        {
+            "type": "java",
+            "name": "ChatGPTReview",
+            "request": "launch",
+            "mainClass": "day7.ChatGPTReview",
+            "projectName": "Unit Two- Using Objects_dbbf7e2"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
